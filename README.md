@@ -1,7 +1,7 @@
 # HumanAnotomy
 - Easy html project for college or school about human anatomy. click on body part to read about it.
 
-<html><head></head><body><p style="color: red">Project Under Development</p></body></html>
+***Project: DIY
 
 # Demo of the website:
 
