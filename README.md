@@ -1,7 +1,9 @@
 # HumanAnotomy
 - Easy html project for college or school about human anatomy. click on body part to read about it.
 
-- ***Project: DIY***
+- [ VIEW DEMO ](https://humananatomy.w3spaces.com/)
+
+- W3space has not enough space for this project. so you can't see all the images of body part.
 
 # Demo of the website:
 
