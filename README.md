@@ -3,7 +3,8 @@
 
 - [ VIEW PAGE DEMO ](humananatomy.infinityfreeapp.com)
 
-- W3space has not enough space for this project. so you can't see all the images of body part.
+- Some pages are still blank for you :)
+
 
 # Demo of the website:
 
